@@ -90,6 +90,7 @@ int main()
 		else Y = false;
 		cin >> c;
 	}
+	cout << "\nВычисления закончены.";
 	system("pause");
 	return 0;
 }
